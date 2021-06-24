@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380447400148",
+    "project_id": "ck-android-ac811",
+    "storage_bucket": "ck-android-ac811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380447400148:android:41e7320e5fcbb713689b41",
+        "android_client_info": {
+          "package_name": "com.example.ck_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380447400148-0ob3hu82at5kf1i2tbmfh6gj7a9e4dg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzrWdgENh0k4xM86HcNffUHumYNXW7k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380447400148-0ob3hu82at5kf1i2tbmfh6gj7a9e4dg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

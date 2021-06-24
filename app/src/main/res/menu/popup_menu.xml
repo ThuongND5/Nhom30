@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_them_sv"
+        android:title="Thêm sinh viên"
+        android:icon="@drawable/ic_add_circle_black_24dp"
+        />
+    <item
+        android:id="@+id/item_sua_sv"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="Sửa thông tin"/>
+    <item
+        android:id="@+id/item_xoa_sv"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="Xóa"/>
+</menu>
